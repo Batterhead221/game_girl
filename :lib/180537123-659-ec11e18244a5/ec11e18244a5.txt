@@ -1,0 +1,10 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"10-04022015-104070";"";
+"REFERENCE";"EC11E18244A5";"";
+"TraceParts.PartTitle";"Alps Alpine 18 Pulse Incremental Mechanical Rotary Encoder with a 6 mm Flat Shaft (Not Indexed), Through Hole";"";
+"TraceParts.InstanceId";"10-04022015-1040702IFZ4RKN8ZOBKFBQZE6DYW6TF";"";
+"SUPPLIER";"ALPS";"";
+"DESIGN";"Alps Alpine 18 Pulse Incremental Mechanical Rotary Encoder with a 6 mm Flat Shaft (Not Indexed), Through Hole";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.PartVersion";"1.0.6";"";
