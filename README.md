@@ -38,4 +38,6 @@ One of the main bring-up issues was the buzzer driver stage. The buzzer itself t
 ## Status
 Working prototype. Core hardware and firmware are functional, with several improvements identified for a future board revision.
 
-DESIGNED & ENGINEERED BY BRANDON SHELLY
+Next rev will be more compact, "kid friendly" and "prettier"
+
+Designed & Engineered by Brandon Shelly
